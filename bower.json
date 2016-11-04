@@ -1,0 +1,21 @@
+{
+  "name": "angular-floating-point",
+  "version": "0.0.1",
+  "main": "dist/angular-floating-point.js",
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.5.8"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package.json",
+    "src",
+    "gulp",
+    "e2e"
+  ]
+}
